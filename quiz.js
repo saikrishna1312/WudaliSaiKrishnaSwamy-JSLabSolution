@@ -75,7 +75,7 @@ function showProgress(){
 
 var questions = [
     new Question = ("Who is the present Indian test cricket team captain?", ["Rohith", "Virat", "Rahul", "Bumrah"], "Rohith"),
-    new Question = ("Russia is currently in war with ", ["USA", "UK", "Ukraine", "India"], "Rohith"),
+    new Question = ("Russia is currently in war with ", ["USA", "UK", "Ukraine", "India"], "Ukraine"),
     new Question = ("Who potrayed the role of batman in 2022 feature film 'The Batman'", ["Ben Affleck", "Robert Downey Jr.", "Chris Evans", "Robert Pattinson"], "Robert Pattinson"),
     new Question = ("Who was the highest paid indian player in IPL auction 2022?", ["Deepak Chahar", "Ishan Kishan", "Shreyas Iyer", "Shardul Thakur"], "Ishan Kishan"),
     new Question = ("Which programming language is used to write smart contracts?", ["Solidity", "Ethereum", "Python", "None of the above"], "Solidity"),
